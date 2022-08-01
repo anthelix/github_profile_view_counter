@@ -150,21 +150,10 @@
 			<code>41</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2021/7/1</code>
-		</td>
-		<td>
-			<code>12</code>
-		</td>
-		<td>
-			<code>667</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/31 6:21 PM UTC</i></small>
+<small><i>Last updated on 2022/8/1 2:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
